@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Build-Timestamp: 2024-10-25T18:53:45.903+0200
+Created-By: Gradle 8.8
+Build-Jdk: 21.0.4 (Debian 21.0.4+7-Debian-2)
+Built-By: esad
+Build-OS: Linux amd64 5.17.0-1-amd64
+Main-Class: org.springframework.boot.loader.launch.JarLauncher
+Start-Class: client.main.MainClient
+Spring-Boot-Version: 3.3.2
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Classpath-Index: BOOT-INF/classpath.idx
+Spring-Boot-Layers-Index: BOOT-INF/layers.idx
+Build-Jdk-Spec: 21
+Implementation-Title: ExampleClient
+
