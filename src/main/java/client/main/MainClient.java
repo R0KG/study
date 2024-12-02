@@ -207,6 +207,8 @@
 package client.main;
 
 
+import client.logic.GameLogic;
+
 public class MainClient {
 	public static void main(String[] args) {
 
